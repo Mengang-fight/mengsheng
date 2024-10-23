@@ -1,17 +1,34 @@
-# 你好！我是[孟昂]
+# Hello! I am [Meng Aung]
 
-我是岭南大学的在校学生，读的专业是Mscct。
+I am a student of Lingnan University, majoring in Mscct.
 
-## 技能
-- 编程语言: [Python, JavaScript, Java等]
-- 框架和库: [React, Node.js, Django等]
-- 数据库: [MySQL, MongoDB等]
-- 其他技能: [AutoCAD等]
+## Skills
+Programming language: [Python, JavaScript, Java, etc.]
+- Frameworks and libraries: [React, Node.js, Django, etc.]
+- Database: [MySQL, MongoDB, etc.]
+- Other skills: [AutoCAD, etc.]
 
 
-## 联系方式
-- 电子邮件: [angmeng@LN.hk]
+## Contact information
+- Email: [angmeng@LN.hk]
 - WeChat: [fightmeng]
 
-## 兴趣
-我的个人爱好非常丰富，主要包括阅读、旅行和运动。阅读是我获取知识和扩展视野的重要方式，我特别喜欢科幻和历史类书籍，经常沉浸在奇妙世界和悠久历史的书籍中。旅行则让我能够接触到不同的文化和风俗，每次旅行都是一段新的冒险，我享受探索未知的乐趣。运动方面，我热爱跑步和游泳，通常每周都会安排时间进行锻炼，这不仅如此增强了我的身体素质，也让我在忙碌的生活中保持放松。
+## Interest
+My personal hobbies are very rich, mainly including reading, traveling and sports. Reading is an important way for me to acquire knowledge and expand my horizon. I especially like science fiction and history books, and I am often immersed in books with wonderful worlds and long histories. Traveling allows me to get in touch with different cultures and customs. Each trip is a new adventure and I enjoy exploring the unknown. In terms of sports, I love running and swimming, and usually arrange time for exercise every week, which not only enhances my physical fitness, but also keeps me relaxed in my busy life.
+# Hello! I am [Meng Aung]
+
+I am a student of Lingnan University, majoring in Mscct.
+
+## Skills
+Programming language: [Python, JavaScript, Java, etc.]
+- Frameworks and libraries: [React, Node.js, Django, etc.]
+- Database: [MySQL, MongoDB, etc.]
+- Other skills: [AutoCAD, etc.]
+
+
+## Contact information
+- Email: [angmeng@LN.hk]
+- WeChat: [fightmeng]
+
+## Interest
+My personal hobbies are very rich, mainly including reading, traveling and sports. Reading is an important way for me to acquire knowledge and expand my horizon. I especially like science fiction and history books, and I am often immersed in books with wonderful worlds and long histories. Traveling allows me to get in touch with different cultures and customs. Each trip is a new adventure and I enjoy exploring the unknown. In terms of sports, I love running and swimming, and usually arrange time for exercise every week, which not only enhances my physical fitness, but also keeps me relaxed in my busy life.
